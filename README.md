@@ -1,4 +1,6 @@
-# Battleship_game_simple### This Version:
+# Battleship_game_simple
+
+### This Version:
 It is simple version. We don't placeany ships of our own. Instead our job is to sink the computer's ships in the fewest number of guesses.
 ## Goal:
 Sink all of the computer's Dot Coms in the fewest number of guesses. You're given a rating or level, based on how well you perform.
